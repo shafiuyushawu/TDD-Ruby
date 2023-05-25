@@ -6,7 +6,7 @@ class Solver
     num * factorial(num - 1)
   end
 
-  def reverse(word)
+  def reverse_word(word)
     word.reverse
   end
 
