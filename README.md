@@ -29,7 +29,7 @@
 
 # 📖 [TDD-Project] <a name="is provides collection classes with several traversal and searching methods, and with the ability to sort"></a>
 
-**[TDD-Project]** provides collection classes with several traversal and searching methods, and with the ability to sort.
+**[TDD-Project]** provides collection classes with methods that seek to solve problems including finding the factorial of a number, return string with its reverse form and solving fizzuzz puzzles.
 
 ## 🛠 Built With <a name="built-with"></a>
 
